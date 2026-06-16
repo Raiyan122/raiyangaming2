@@ -1,0 +1,6 @@
+{
+  "name": "AI Website Theme Maker",
+  "description": "Generate, preview, customize, and download production-ready website themes, color palettes, and component styles with AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
